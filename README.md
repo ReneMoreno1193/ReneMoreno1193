@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm René Moreno 👋
 
 <!--
-**ReneMoreno1193/ReneMoreno1193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ReneMoreno1193/ReneMoreno1193** 
 
-Here are some ideas to get you started:
+About Me:
+⌨️ Full Stack Developer Java
+👨‍🏫 
+✨Valparaíso, Chile
+🌱 always learning
+💻 Technology
+💬 How to reach me rene.igmove@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-
