@@ -14,7 +14,7 @@ m
 
 
 
-<body>
+
     <div class="centered-content">
         <h4>About Me:</h4>
         <p>⌨️ Full Stack Developer Java</p>
