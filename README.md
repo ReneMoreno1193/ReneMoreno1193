@@ -15,15 +15,15 @@ m
 
 
 
-    <div class="centered-content">
+  
         <h4>About Me:</h4>
-        <p>⌨️ Full Stack Developer Java</p>
-        <p>👨‍🏫</p>
-        <p>✨Valparaíso, Chile</p>
-        <p>🌱 always learning</p>
-        <p>💻 Technology</p>
+        <p>⌨️ Full Stack Developer Java<
+         👨‍🏫
+         ✨Valparaíso, Chile<
+         🌱 always learning</p>
+         💻 Technology</p>
         <p>💬 How to reach me: <a href="mailto:rene.igmove@gmail.co">rene.igmove@gmail.co</a></p>
-    </div>
+    
 - 
 
 🤝 &nbsp; Connect with Me
