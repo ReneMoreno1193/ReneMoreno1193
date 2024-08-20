@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rene-moreno-b5a287248/" target="blank">/></a>
+<a href="https://www.linkedin.com/in/rene-moreno-b5a287248/" target="blank">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
